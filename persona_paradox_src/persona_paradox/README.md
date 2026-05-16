@@ -46,9 +46,7 @@ persona-paradox/
 │   └── run_all.sh                # runs all four sequentially
 │
 ├── results/                      # audit CSVs written here
-├── notebooks/
-│   ├── analysis.ipynb            # reproduce all tables from the paper
-│   └── demo.ipynb                # run a single scenario interactively
+├── The Persona Paradox.pdf       # Report of everything that is done in this experiment
 │
 └── requirements.txt
 ```
