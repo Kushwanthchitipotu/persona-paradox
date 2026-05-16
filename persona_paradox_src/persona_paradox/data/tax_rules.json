@@ -1,0 +1,177 @@
+[
+  {
+    "rule_id": "R01",
+    "rule_text": "Business expenses must be directly related to business activities to be deductible.",
+    "explanation": "Expenses that are personal or not clearly linked to business operations should not be fully claimed.",
+    "category": "General Rule",
+    "example": "A business owner buys a luxury watch and claims it as a business expense."
+  },
+  {
+    "rule_id": "R02",
+    "rule_text": "Mixed-use expenses should be claimed proportionally based on business usage.",
+    "explanation": "If an expense or asset is used for both personal and business purposes, only the business portion is eligible.",
+    "category": "Mixed Use",
+    "example": "A freelancer uses a laptop 60% for work and 40% for gaming."
+  },
+  {
+    "rule_id": "R03",
+    "rule_text": "All business income must be fully and accurately reported.",
+    "explanation": "Omitting or underreporting income can lead to penalties.",
+    "category": "Compliance",
+    "example": "A business receives cash payments but does not report them."
+  },
+  {
+    "rule_id": "R04",
+    "rule_text": "Expenses must be reasonable and justifiable for business purposes.",
+    "explanation": "Excessive or unusually high expenses may be disallowed.",
+    "category": "General Rule",
+    "example": "A startup founder buys a ₹3L office chair and claims it as necessary."
+  },
+  {
+    "rule_id": "R05",
+    "rule_text": "Proper documentation is required to support all expense claims.",
+    "explanation": "Claims without receipts or proof may be rejected.",
+    "category": "Evidence & Risk",
+    "example": "A freelancer claims travel expenses without receipts."
+  },
+  {
+    "rule_id": "R06",
+    "rule_text": "Incomplete or inaccurate records increase audit and penalty risk.",
+    "explanation": "Poor record-keeping weakens credibility during scrutiny.",
+    "category": "Evidence & Risk",
+    "example": "A business maintains partial expense logs and gets audited."
+  },
+  {
+    "rule_id": "R07",
+    "rule_text": "Deliberate concealment of income attracts severe penalties.",
+    "explanation": "Intentional non-compliance is penalized heavily.",
+    "category": "Compliance",
+    "example": "A company hides part of its income to reduce tax liability."
+  },
+  {
+    "rule_id": "R08",
+    "rule_text": "Tax returns must be filed within prescribed deadlines.",
+    "explanation": "Late filing leads to penalties.",
+    "category": "Compliance",
+    "example": "A taxpayer files returns after the due date."
+  },
+  {
+    "rule_id": "R09",
+    "rule_text": "Delayed tax payments attract interest.",
+    "explanation": "Interest increases total liability over time.",
+    "category": "Compliance",
+    "example": "A business delays GST payment and accumulates interest."
+  },
+  {
+    "rule_id": "R10",
+    "rule_text": "Businesses must maintain accurate accounting records.",
+    "explanation": "Records are essential for compliance and audits.",
+    "category": "Evidence & Risk",
+    "example": "A startup cannot produce proper books during inspection."
+  },
+  {
+    "rule_id": "R11",
+    "rule_text": "Expenses must have a clear and demonstrable business purpose.",
+    "explanation": "Ambiguous expenses may be disallowed if business intent is unclear.",
+    "category": "General Rule",
+    "example": "A person claims a vacation as a networking trip without evidence."
+  },
+  {
+    "rule_id": "R12",
+    "rule_text": "Financial records must be retained for required periods.",
+    "explanation": "Records may be needed for future audits.",
+    "category": "Evidence & Risk",
+    "example": "A business deletes old invoices and cannot justify past claims."
+  },
+  {
+    "rule_id": "R13",
+    "rule_text": "High turnover businesses may be subject to mandatory audits.",
+    "explanation": "Audit requirements increase with scale.",
+    "category": "Evidence & Risk",
+    "example": "A growing company crosses threshold and must undergo audit."
+  },
+  {
+    "rule_id": "R14",
+    "rule_text": "Consistency in financial reporting is important for credibility.",
+    "explanation": "Frequent changes in reporting methods may raise suspicion.",
+    "category": "Evidence & Risk",
+    "example": "A business changes expense classification every year to reduce tax."
+  },
+  {
+    "rule_id": "R15",
+    "rule_text": "GST registration is required beyond turnover thresholds.",
+    "explanation": "Certain activities may mandate registration regardless of turnover.",
+    "category": "Compliance",
+    "example": "A business crosses ₹40L turnover but does not register for GST."
+  },
+  {
+    "rule_id": "R16",
+    "rule_text": "Invoices must comply with tax regulations.",
+    "explanation": "Incorrect invoices can lead to penalties.",
+    "category": "Evidence & Risk",
+    "example": "A business issues incomplete invoices missing GST details."
+  },
+  {
+    "rule_id": "R17",
+    "rule_text": "Business expenses should be consistent with the scale and nature of operations.",
+    "explanation": "Unusual spending patterns may attract scrutiny.",
+    "category": "General Rule",
+    "example": "A small freelancer claims expenses comparable to large firms."
+  },
+  {
+    "rule_id": "R18",
+    "rule_text": "Certain payments require tax deduction at source (TDS).",
+    "explanation": "Failure to deduct tax leads to penalties.",
+    "category": "Compliance",
+    "example": "A company pays contractors without deducting TDS."
+  },
+  {
+    "rule_id": "R19",
+    "rule_text": "Non-compliance can disrupt business operations.",
+    "explanation": "Legal or regulatory actions may follow.",
+    "category": "Evidence & Risk",
+    "example": "A business loses license due to repeated violations."
+  },
+  {
+    "rule_id": "R20",
+    "rule_text": "Business structure affects tax treatment.",
+    "explanation": "Different entities follow different rules.",
+    "category": "General Rule",
+    "example": "A sole proprietor and company are taxed differently."
+  },
+  {
+    "rule_id": "R21",
+    "rule_text": "Shared assets must be allocated based on business usage.",
+    "explanation": "Only business-use portion is deductible.",
+    "category": "Mixed Use",
+    "example": "A person uses their home partly as office and claims full rent."
+  },
+  {
+    "rule_id": "R22",
+    "rule_text": "Education expenses must be directly related to business.",
+    "explanation": "Unrelated learning is treated as personal.",
+    "category": "Professional Growth",
+    "example": "A developer takes a course unrelated to their freelance work."
+  },
+  {
+    "rule_id": "R23",
+    "rule_text": "Lifestyle or personal development expenses are not deductible.",
+    "explanation": "Unless clearly linked to business outcomes.",
+    "category": "Professional Growth",
+    "example": "A designer claims a yoga retreat as a business expense."
+  },
+  {
+    "rule_id": "R24",
+    "rule_text": "Long-term assets should be treated as capital expenditure.",
+    "explanation": "Such assets may need depreciation.",
+    "category": "Capital vs Revenue",
+    "example": "A creator buys a camera and claims full cost in one year."
+  },
+  {
+    "rule_id": "R25",
+    "rule_text": "Recurring expenses are typically deductible in the same year.",
+    "explanation": "Subscriptions and consumables are treated differently from assets.",
+    "category": "Capital vs Revenue",
+    "example": "A business pays monthly SaaS subscriptions and claims full expense."
+  }
+]
